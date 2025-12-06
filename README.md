@@ -1,4 +1,4 @@
-# CMI-Behavior-Detection-1D-CNN
+# **CMI-Behavior-Detection-1D-CNN 🌌🧠**
 This is a neural network that classifies and distinguishes behaviors using sensor data collected from a worn wrist device. Created for the Child Mind Institute "Detect Behaviors with Sensor Data" Kaggle competition, [which is linked here](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data)
 
 Submission notebook on Kaggle:
