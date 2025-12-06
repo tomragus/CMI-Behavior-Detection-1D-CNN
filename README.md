@@ -21,8 +21,6 @@ The Helios device recorded 3D acceleration data (in x/y/z directions), orientati
 - [Temperature](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/Competitions/Helios2025/Thermopile_Sensor.pdf)
 - [Time-of-Flight](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/Competitions/Helios2025/Time_of_Flight_Sensor.pdf)
 
-![hand.png](attachment:2658312d-11ca-427a-a1cc-357795ad449c.png)
-
 **✎  Gestures:**
 
 *BFRB:*
