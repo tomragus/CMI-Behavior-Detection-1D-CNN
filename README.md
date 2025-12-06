@@ -35,4 +35,4 @@ Drink from bottle/cup, Glasses on/off, Pull air toward your face, Pinch knee/leg
 
 I would like to thank Ted Kyi and Ryan Chesler from the [San Diego Machine Learning](https://www.meetup.com/san-diego-machine-learning/) group for their help and guidance in tackling this problem, and more generally for the service they are doing for the San Diego community by teaching this useful skill to the public free of charge.
 
-*Most of this project was built on another repo, but on account of the version control becoming a total unworkable disaster (still in the learning phase of Git) I came to the unfortunate conclusion that the only path forward was to nuke the repo and import all of my work to a new one.*
+*Most of this project was built on another repo, but on account of the version control becoming a total unworkable disaster (still in the learning phase of Git) I came to the unfortunate conclusion that the only path forward was to nuke the repo and import all of my work to a new one.* 🥲
