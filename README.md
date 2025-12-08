@@ -3,7 +3,7 @@ This is a neural network that classifies and distinguishes behaviors using senso
 
 ### [Full Notebook](https://github.com/tomragus/CMI-Behavior-Detection-1D-CNN/blob/main/CMI%20Behavior%20Detection%20Model%201D-CNN.ipynb)
 
-Submission notebook on Kaggle:
+Submission notebook on Kaggle: [click here](https://www.kaggle.com/code/tomragus/cmi-behavior-detection-model-1d-cnn-submission)
 
 **✎  Overview:**
 
