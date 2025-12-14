@@ -5,6 +5,8 @@ This is a neural network that classifies and distinguishes behaviors using senso
 
 Submission notebook on Kaggle: [click here](https://www.kaggle.com/code/tomragus/cmi-behavior-detection-model-1d-cnn-submission)
 
+### Read more about the great work that is being done at the Child Mind Institute at [https://childmind.org/](https://childmind.org/)
+
 **✎  Overview:**
 
 Have you ever wondered what makes someone tick? How about, what *is* a tick? This interesting problem from the Child Mind Institute asks us to investigate Body-Focused Repetitive Behaviors (BFRBs) such as nail-biting, hair-pulling and skin-picking, in an effort to better understand how they relate to Obsessive Compulsive Disorder (OCD). 
